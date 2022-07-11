@@ -2,6 +2,8 @@
 
 A retro theme for [term.ptt.cc](https://term.ptt.cc/) based on [term-ptt-custom-theme](https://github.com/VdustR/term-ptt-custom-theme) .
 
+![term-ptt-retro-theme](https://vdustr.dev/asset-2022/07-11-term-ptt-retro-theme/sign-in.png)
+
 ![term-ptt-retro-theme](https://vdustr.dev/asset-2022/04-08-term-ptt-custom-theme/retro.png)
 
 - Palette: [gruvbox.css](https://github.com/VdustR/gruvbox.css)
