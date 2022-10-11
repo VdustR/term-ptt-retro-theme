@@ -16,7 +16,7 @@ A retro theme for [term.ptt.cc](https://term.ptt.cc/) based on [term-ptt-custom-
 // @name         PTT Retro Theme
 // @description  https://github.com/VdustR/term-ptt-retro-theme
 // @version      0.0.0
-// @match        https://term.ptt.cc
+// @match        https://term.ptt.cc/
 // ==/UserScript==
 
 (function () {
